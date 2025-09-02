@@ -12,8 +12,9 @@ Welcome to my GitHub profile!
 - Languages: Python, JavaScript, Java
 - Tools: Git, VS Code
 
-## My Project
-https://github.com/Abhra0404/Netflix-Clone
+## 💻 My Project
+Netflix Homepage Clone:  https://github.com/Abhra0404/Netflix-Clone
+
 
 ## 📈 GitHub Stats
 
