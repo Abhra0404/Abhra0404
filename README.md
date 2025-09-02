@@ -16,6 +16,10 @@ Welcome to my GitHub profile!
 
 ![Abhra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhra0404&show_icons=true&theme=tokyonight)
 
+![Abhra's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+
 ## 📫 How to reach me
 - Email: aforabhra@gmail.com
 - LinkedIn: [My LinkedIn](www.linkedin.com/in/abhra-jaiswal-173791205)
