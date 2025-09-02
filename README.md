@@ -9,9 +9,8 @@ Welcome to my GitHub profile!
 - 🌱 Currently exploring new technologies and frameworks.
 
 ## 🛠️ Skills
-- Languages: Python, JavaScript, C++
-- Frameworks: React, Node.js, Django
-- Tools: Git, Docker, VS Code
+- Languages: Python, JavaScript, Java
+- Tools: Git, VS Code
 
 ## 📈 GitHub Stats
 
