@@ -25,6 +25,7 @@ Netflix Homepage Clone:  https://github.com/Abhra0404/Netflix-Clone
 - Email: aforabhra@gmail.com
 - LinkedIn: [My LinkedIn](www.linkedin.com/in/abhra-jaiswal-173791205)
 
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/snake.svg)
 
 ---
 
