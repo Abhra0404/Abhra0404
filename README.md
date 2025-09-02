@@ -11,13 +11,11 @@ Welcome to my GitHub profile!
 ## 🛠️ Skills
 - Languages: Python, JavaScript, Java
 - Tools: Git, VS Code
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 ## 📈 GitHub Stats
 
 ![Abhra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhra0404&show_icons=true&theme=tokyonight)
-
-![Abhra's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 
 ## 📫 How to reach me
