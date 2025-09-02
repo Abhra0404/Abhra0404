@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: yourusername
+          github_user_name: Abhra0404
           outputs: |
             dist/snake.svg
             dist/snake.gif
