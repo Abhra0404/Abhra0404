@@ -11,7 +11,6 @@ Welcome to my GitHub profile!
 ## 🛠️ Skills
 - Languages: Python, JavaScript, Java
 - Tools: Git, VS Code
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 ## 📈 GitHub Stats
 
