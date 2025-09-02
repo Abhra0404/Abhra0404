@@ -1,4 +1,4 @@
-# Abhra0404/Abhra0404
+# Abhra0404
 # Hi there, I'm Abhra 👋
 
 Welcome to my GitHub profile!
