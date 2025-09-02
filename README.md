@@ -18,9 +18,9 @@ Welcome to my GitHub profile!
 ![Abhra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhra0404&show_icons=true&theme=tokyonight)
 
 ## 📫 How to reach me
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Email: aforabhra@gmail.com
+- LinkedIn: [Your LinkedIn](www.linkedin.com/in/abhra-jaiswal-173791205)
+
 
 ---
 
