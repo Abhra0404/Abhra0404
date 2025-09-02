@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 ## 📫 How to reach me
 - Email: aforabhra@gmail.com
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/abhra-jaiswal-173791205)
+- LinkedIn: [My LinkedIn](www.linkedin.com/in/abhra-jaiswal-173791205)
 
 
 ---
