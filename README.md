@@ -9,8 +9,8 @@ Welcome to my GitHub profile!
 - 🌱 Currently exploring new technologies and frameworks.
 
 ## 🛠️ Skills
-- Languages: Python, JavaScript, Java
-- Tools: Git, VS Code
+- Tech Stack: HTML, CSS, JavaScript, React.js, Tailwind CSS, Python
+- Tools: Git, Github, VS Code
 
 
 
