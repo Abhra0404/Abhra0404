@@ -26,8 +26,7 @@ Welcome to my GitHub profile!
 
 
 ## 📈 GitHub Stats
-
-![Abhra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhra0404&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://streak-stats.demolab.com?user=Abhra0404&theme=tokyonight&hide_border=true)
 
 ---
 
