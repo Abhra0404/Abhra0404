@@ -26,8 +26,10 @@ Welcome to my GitHub profile!
 
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://streak-stats.demolab.com?user=Abhra0404&theme=tokyonight&hide_border=true)
 ![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Abhra0404&show_icons=true&theme=tokyonight&hide_border=true)
+---
+![GitHub Stats](https://streak-stats.demolab.com?user=Abhra0404&theme=tokyonight&hide_border=true)
+
 
 ---
 
