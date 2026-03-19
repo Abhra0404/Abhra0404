@@ -38,7 +38,8 @@ Welcome to my GitHub profile!
 ---
 ![GitHub Stats](https://streak-stats.demolab.com?user=Abhra0404&theme=tokyonight&hide_border=true)
 
-
+---
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Abhra0404/Abhra0404/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ## 📫 How to reach me
