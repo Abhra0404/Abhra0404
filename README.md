@@ -20,7 +20,15 @@ Welcome to my GitHub profile!
 - VS Code = My emotional support editor
 - Git = "It works on my machine" → commit → pray 🙏
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript,nextjs,nodejs,express,postman,mongodb,mysql,postgres,python,docker,kubernetes,jenkins,git,github,vscode&perline=10&theme=dark" width="620" height="62" />
+<section class="skills-section">
+
+  <div class="skills-card">
+    <img 
+      src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript,nextjs,nodejs,express,postman,mongodb,mysql,postgres,python,docker,kubernetes,jenkins,git,github,vscode&perline=10&theme=dark" 
+      alt="Tech Stack"
+    />
+  </div>
+</section>
 
 ---
 
