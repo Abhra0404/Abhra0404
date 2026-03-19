@@ -1,6 +1,8 @@
-# KAIZEN X 🌀⚡
+<h1 align="center">KAIZEN X 🌀⚡</h1>
 
-Welcome to my GitHub profile!
+<p align="center">
+  Welcome to my GitHub profile!
+</p>
 
 ---
 
