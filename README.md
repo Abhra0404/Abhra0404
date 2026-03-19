@@ -25,7 +25,7 @@ Welcome to my GitHub profile!
   <div class="skills-card">
     <img 
       src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript,nextjs,nodejs,express,postman,mongodb,mysql,postgres,python,docker,kubernetes,jenkins,git,github,vscode&perline=10&theme=dark" 
-      alt="Tech Stack"
+      alt="Tech Stack" width="420" height="112"
     />
   </div>
 </section>
