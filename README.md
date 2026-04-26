@@ -6,46 +6,55 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 I code because therapy is expensive and VS Code never judges me
-- 💻 I touch open-source like it’s a hot stove: quickly, loudly, and usually break something
-- 🌱 Currently learning 17 new frameworks (simultaneously) while pretending I still remember vanilla JS
-- 🧠 My brain has two tabs open: “What am I building?” and “Why is nothing working?”
+## 👾 About Me
+<div align="center">
+
+Developer. Problem solver. Occasional bug creator.
+
+I enjoy building efficient systems, learning new technologies, and improving code until it behaves as intended — or at least convincingly so.
+
+Currently focused on writing clean, maintainable code and avoiding unnecessary complexity (with mixed success).
+
+</div>
 
 ---
 
 ## ⚔️ TECH STACK FROM ANOTHER DIMENSION
-- HTML + CSS + JS = My holy trinity
-- MERN = MongoDB + Express + React + Node.js = I touch the forbidden backend arts ⚡🐛💀
-- Tailwind = Making things pretty while crying
-- Python = For when I pretend to be a data scientist
-- VS Code = My emotional support editor
-- Git = "It works on my machine" → commit → pray 🙏
+<div align="center">
 
-<section class="skills-section">
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript,nextjs" />
 
-  <div class="skills-card">
-    <img 
-      src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript,nextjs,nodejs,express,postman,mongodb,mysql,postgres,python,docker,kubernetes,jenkins,git,github,vscode&theme=dark" 
-      alt="Tech Stack" width="720" height="92"
-    />
-  </div>
-</section>
+### Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,supabase" />
+
+### DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,terraform,ansible,prometheus" />
+
+### Tools & Others
+<img src="https://skillicons.dev/icons?i=python,linux,figma,postman,git,github,vscode" />
+
+</div>
+
 
 ---
 
 
 ## 📈 GitHub Stats
+<div align="center">
+  
 ![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Abhra0404&show_icons=true&theme=tokyonight&hide_border=true)
----
 ![GitHub Stats](https://streak-stats.demolab.com?user=Abhra0404&theme=tokyonight&hide_border=true)
 
 ---
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Abhra0404/Abhra0404/output/github-contribution-grid-snake-dark.svg)
+</div>
+
 ---
 
 ## 📫 How to reach me
 
+<div align="center">
 <a href="https://www.linkedin.com/in/abhra-jaiswal-173791205/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" height="48"/>
 </a>
@@ -57,4 +66,4 @@
 <a href="https://github.com/Abhra0404" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" height="48"/>
 </a>
-
+</div>
