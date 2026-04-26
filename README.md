@@ -5,7 +5,7 @@
 
 ---
 
-## 👾 About Me
+## 👾 ABOUT ME
 <div align="center">
 
 Developer 💻. Problem solver 🧠. Occasional bug creator 🐛.
@@ -39,7 +39,7 @@ Currently focused on writing clean, maintainable code—and pretending that was 
 ---
 
 
-## 📈 GitHub Stats
+## 📈 GITHUB STATS
 <div align="center">
   
 ![GitHub Stats](https://streak-stats.demolab.com?user=Abhra0404&theme=tokyonight&hide_border=true)
