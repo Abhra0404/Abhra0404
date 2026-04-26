@@ -8,11 +8,11 @@
 ## 👾 About Me
 <div align="center">
 
-Developer. Problem solver. Occasional bug creator.
+Developer 💻. Problem solver 🧠. Occasional bug creator 🐛.
 
-I enjoy building efficient systems, learning new technologies, and improving code until it behaves as intended — or at least convincingly so.
+I like building efficient systems ⚙️, learning new technologies 📚, and simplifying complexity wherever possible.
 
-Currently focused on writing clean, maintainable code and avoiding unnecessary complexity (with mixed success).
+Currently focused on writing clean, maintainable code—and pretending that was always the plan 😄.
 
 </div>
 
