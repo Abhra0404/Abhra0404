@@ -5,19 +5,6 @@
 
 ---
 
-## 👾 ABOUT ME
-<div align="center">
-
-Developer 💻. Problem solver 🧠. Occasional bug creator 🐛.
-
-I like building efficient systems ⚙️, learning new technologies 📚, and simplifying complexity wherever possible.
-
-Currently focused on writing clean, maintainable code—and pretending that was always the plan 😄.
-
-</div>
-
----
-
 ## ⚔️ TECH STACK FROM ANOTHER DIMENSION
 <div align="center">
 
