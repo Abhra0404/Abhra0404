@@ -18,7 +18,7 @@
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,terraform,ansible,prometheus,grafana" />
 
 ### Tools & Others
-<img src="https://skillicons.dev/icons?i=python,linux,postman,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,linux,postman,streamlit,git,github,vscode" />
 
 </div>
 
