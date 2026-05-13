@@ -12,13 +12,13 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript,nextjs" />
 
 ### Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,supabase,firebase" />
 
 ### DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,terraform,ansible,prometheus" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,terraform,ansible,prometheus,grafana" />
 
 ### Tools & Others
-<img src="https://skillicons.dev/icons?i=python,linux,figma,postman,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,linux,postman,git,github,vscode" />
 
 </div>
 
