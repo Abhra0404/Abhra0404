@@ -15,6 +15,7 @@
 </div>
 
 ---
+<div align="center">
 
 ```text
 ╔══════════════════════════════════════════════════════════════════╗
@@ -33,6 +34,7 @@
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
+</div>
 
 # `> whoami`
 
@@ -121,32 +123,6 @@ CAPABILITY MATRIX
 
 ---
 
-# `> github_stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abhra0404&show_icons=true&theme=transparent&hide_border=true&title_color=00ff9c&text_color=ffffff&icon_color=00ff9c&bg_color=00000000" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhra0404&layout=compact&theme=transparent&hide_border=true&title_color=00ff9c&text_color=ffffff&bg_color=00000000" width="40%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Abhra0404&theme=transparent&hide_border=true&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" />
-
-</div>
-
----
-
-# `> activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhra0404&bg_color=00000000&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
 # `> contribution_matrix`
 
 <div align="center">
@@ -157,15 +133,18 @@ CAPABILITY MATRIX
 
 ---
 
-# `> writing`
+## `> writing.log`
 
-I occasionally disappear into a rabbit hole and come back with a blog post.
+> Things I'm learning, building, breaking, and figuring out.
 
-### Featured
 
-**From Writing Code to Building Intelligence — My AI/ML Journey**
+**01 — From Writing Code to Building Intelligence**
+My journey from coding → AI/ML → building intelligent systems.
 
-→ [Read on Medium](https://medium.com/@aforabhra/from-writing-code-to-building-intelligence-my-ai-ml-journey-b4620a1a42a4)
+→ [Read the transmission](https://medium.com/@aforabhra/from-writing-code-to-building-intelligence-my-ai-ml-journey-b4620a1a42a4)
+
+`more experiments incoming...`
+
 
 ---
 
