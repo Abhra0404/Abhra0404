@@ -36,7 +36,7 @@
 ```
 </div>
 
-# `> whoami`
+## `> whoami`
 
 I'm **Abhra** — a CS/AI student obsessed with understanding how intelligent systems actually work.
 
@@ -60,7 +60,7 @@ I want to build things where the README needs a **diagram to explain what I buil
 
 ---
 
-# `> current_mission`
+## `> current_mission`
 
 ```yaml
 MISSION:
@@ -84,7 +84,7 @@ MISSION:
 
 ---
 
-# `> tech_stack`
+## `> tech_stack`
 
 <div align="center">
 
@@ -123,7 +123,7 @@ CAPABILITY MATRIX
 
 ---
 
-# `> contribution_matrix`
+## `> contribution_matrix`
 
 <div align="center">
 
@@ -147,8 +147,6 @@ My journey from coding → AI/ML → building intelligent systems.
 
 
 ---
-
-# `> contact`
 
 <div align="center">
 
