@@ -138,7 +138,7 @@ CAPABILITY MATRIX
 > Things I'm learning, building, breaking, and figuring out.
 
 
-**01 — From Writing Code to Building Intelligence**
+**01 — From Writing Code to Building Intelligence: My AI/ML Journey**
 
 → [Read the blog](https://medium.com/@aforabhra/from-writing-code-to-building-intelligence-my-ai-ml-journey-b4620a1a42a4)
 
@@ -148,21 +148,6 @@ CAPABILITY MATRIX
 
 `more experiments incoming...`
 
-
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════╗
-║                                      ║
-║       BUILD. BREAK. UNDERSTAND.      ║
-║              REPEAT.                 ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
