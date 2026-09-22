@@ -139,9 +139,12 @@ CAPABILITY MATRIX
 
 
 **01 — From Writing Code to Building Intelligence**
-My journey from coding → AI/ML → building intelligent systems.
 
-→ [Read the transmission](https://medium.com/@aforabhra/from-writing-code-to-building-intelligence-my-ai-ml-journey-b4620a1a42a4)
+→ [Read the blog](https://medium.com/@aforabhra/from-writing-code-to-building-intelligence-my-ai-ml-journey-b4620a1a42a4)
+
+**02 — The AI Shift Nobody’s Talking About: From Chat Models to Decision Models**
+
+→ [Read the blog](https://medium.com/@aforabhra/the-ai-shift-nobodys-talking-about-from-chat-models-to-decision-models-bf713b6d4761)
 
 `more experiments incoming...`
 
