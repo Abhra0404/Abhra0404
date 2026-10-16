@@ -60,27 +60,13 @@ I want to build things where the README needs a **diagram to explain what I buil
 
 ---
 
-## `> current_mission`
+## `> profile_stats`
 
-```yaml
-MISSION:
-  primary:
-    - Become ridiculously good at AI/ML
-    - Build research-grade projects
-    - Understand systems beneath the abstractions
+<div align="center">
 
-  secondary:
-    - DSA
-    - Distributed Systems
-    - System Design
-    - MLOps
-    - Open Source
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Abhra0404&theme=nord&hide_border=true&border_radius=50)
 
-  endgame:
-    - AI/ML Engineering
-    - Research
-    - Production AI Systems
-```
+</div>
 
 ---
 
