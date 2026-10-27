@@ -70,45 +70,6 @@ I want to build things where the README needs a **diagram to explain what I buil
 
 ---
 
-## `> tech_stack`
-
-<div align="center">
-
-CAPABILITY MATRIX
-
-```text
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│  01  CORE ENGINEERING                                           │
-│  ─────────────────────────────────────────────────────────────  │
-│      Python  •  JavaScript  •  SQL                              │
-│                                                                 │
-│  02  INTELLIGENCE                                               │
-│  ─────────────────────────────────────────────────────────────  │
-│      PyTorch  •  Scikit-Learn  •  NumPy  •  Pandas              │
-│      Machine Learning • Deep Learning •  NLP                    │
-│                                                                 │
-│  03  GENERATIVE AI                                              │
-│  ─────────────────────────────────────────────────────────────  │
-│      LLMs  •  Transformers  •  RAG  •  AI Agents                │
-│      Embeddings  •  Vector Search  •  Evaluation                │
-│                                                                 │
-│  04  BACKEND & SYSTEMS                                          │
-│  ─────────────────────────────────────────────────────────────  │
-│      Node.js  •  FastAPI  •  PostgreSQL  •  Redis               │
-│      REST APIs  •  Distributed Systems  •  System Design        │
-│                                                                 │
-│  05  INFRASTRUCTURE                                             │
-│  ─────────────────────────────────────────────────────────────  │
-│      Docker  •  Git  •  Linux  •  AWS                           │
-│      CI/CD  •  MLOps  •  Kubernetes                             │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-</div>
-
----
-
 ## `> contribution_matrix`
 
 <div align="center">
@@ -131,6 +92,10 @@ CAPABILITY MATRIX
 **02 — The AI Shift Nobody’s Talking About: From Chat Models to Decision Models**
 
 → [Read the blog](https://medium.com/@aforabhra/the-ai-shift-nobodys-talking-about-from-chat-models-to-decision-models-bf713b6d4761)
+
+**03 — Understanding Knowledge Graphs & Neo4j Internals**
+
+→ [Read the blog](https://medium.com/@aforabhra/understanding-knowledge-graphs-neo4j-internals-3a00b2519c23)
 
 `more experiments incoming...`
 
