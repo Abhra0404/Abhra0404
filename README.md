@@ -38,37 +38,25 @@
 
 ## `> whoami`
 
-I'm **Abhra** — a CS/AI student obsessed with understanding how intelligent systems actually work.
+I'm **Abhra**, a CS & AI undergraduate interested in understanding how intelligent systems actually work.
 
-I like projects that sit somewhere between:
+I enjoy working at the intersection of:
 
-```text
-              RESEARCH
-                 ▲
-                 │
-                 │
-     AI ◄────────┼────────► SYSTEMS
-                 │
-                 │
-                 ▼
-             SOFTWARE
-```
+- **Artificial Intelligence:** Models, learning algorithms, neural networks and intelligent agents.
+- **Systems Engineering:** Distributed systems, concurrency, queues and backend architecture.
+- **Research:** Mechanistic interpretability, knowledge representation and understanding model behaviour.
+- **Software Engineering:** Turning complex ideas into reliable, usable products.
 
-I don't want to spend my entire career making another todo app.
+I don't want to spend my entire career building another CRUD application.
 
-I want to build things where the README needs a **diagram to explain what I built.**
+I want to build systems where the README needs a diagram to explain what I built.
 
 ---
-
-## `> profile_stats`
-
 <div align="center">
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=Abhra0404&theme=nord&hide_border=true&border_radius=50)
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhra0404&theme=dark&hide_border=true&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2"/>
 
 </div>
-
----
 
 ## `> contribution_matrix`
 
