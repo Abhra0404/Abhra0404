@@ -38,18 +38,57 @@
 
 ## `> whoami`
 
-I'm **Abhra**, a CS & AI undergraduate interested in understanding how intelligent systems actually work.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-I enjoy working at the intersection of:
+### Hey, I'm Abhra.
 
-- **Artificial Intelligence:** Models, learning algorithms, neural networks and intelligent agents.
-- **Systems Engineering:** Distributed systems, concurrency, queues and backend architecture.
-- **Research:** Mechanistic interpretability, knowledge representation and understanding model behaviour.
-- **Software Engineering:** Turning complex ideas into reliable, usable products.
+**CS & AI undergraduate. Engineer by curiosity. Researcher by obsession.**
 
-I don't want to spend my entire career building another CRUD application.
+I spend my time exploring what happens beneath the abstractions — how models learn, how systems scale, and how software behaves when things get complicated.
 
-I want to build systems where the README needs a diagram to explain what I built.
+I'm particularly fascinated by the intersection of **Artificial Intelligence, Systems Engineering, and Research.**
+
+I enjoy building things that challenge my understanding, not just things that look good in a demo.
+
+**I believe the best way to understand a system is to build it, break it, and figure out why it broke.**
+
+</td>
+<td width="40%" valign="top">
+
+### `CURRENT_STATE`
+
+```yaml
+identity: Abhra Jaiswal
+role: CS & AI Engineer
+mode: BUILDING
+
+obsessed_with:
+  - Machine Learning
+  - Distributed Systems
+  - Model Internals
+
+exploring:
+  - Mechanistic Interpretability
+  - LLM Agents
+  - MLOps
+
+mindset: 
+  "Understand > Abstract"
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**I'M NOT HERE TO JUST USE TECHNOLOGY.**
+
+*I want to understand how it's built, why it works, and what comes next.*
+
+</div>
 
 ---
 <div align="center">
